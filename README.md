@@ -3,6 +3,8 @@
 # overview 
 This repository contains the code and dataset for forecasting the Anaemia from Image Pixels and Hemoglobin Levels. Developed a Random Forest Classifier model to predict future order quantities.
 # Table of content
-1 bike_sales_forecasting.ipynb contains is the Jupyter Notebook for this project. You can explore the entire data preprocessing, feature engineering, model development, and evaluation process in this notebook.
+1 Anaemia prediction
+2 README.md
+3 anemia_dataset.csv
 # Notebook
 Anaemia Prediction.ipynb contains is the Jupyter Notebook for this project. You can explore the entire data preprocessing, feature engineering, model development, and evaluation process in this notebook.
